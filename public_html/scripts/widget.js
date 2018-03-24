@@ -1,8 +1,5 @@
 window.zESettings = {
   webWidget: {
-    contactOptions: {
-      enabled: true,
-    }
     color: { theme: '#9fedd7' }
   }
 };
